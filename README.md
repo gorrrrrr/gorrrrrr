@@ -1,6 +1,6 @@
 # Hi, I'm Timofey 👋, Junior Software Developer. 
 I got knowledge in backend development on Python, especially Django framework.
-Big part of my acitities is here in my repositories. 🙏 Please, take me on your project! 
+Big part of my activities is here in my repositories. 🙏 Please, take me on your project! 
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=gorrrrrr&show_icons=true&count_private=true"><img

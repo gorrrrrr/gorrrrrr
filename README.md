@@ -14,6 +14,9 @@ Big part of my activities is here in my repositories. 🙏 Please, take me on yo
    <a href="https://www.linkedin.com/in/gorrrrrr/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
+   <a href="https://www.upwork.com/freelancers/~01fc72f86776435b1f">
+       <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/>
+   </a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:timotheos94@protonmail.com'>timotheos94@protonmail.com</a>
 </p>

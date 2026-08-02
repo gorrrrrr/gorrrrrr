@@ -1,5 +1,5 @@
-# Hi, I'm Timofey 👋, Junior Software Developer. 
-I got knowledge in backend development on Python, especially Django framework.
+# Hi, I'm Timofey 👋, Software Developer. 
+I got knowledge in backend development on Python.
 Big part of my activities is here in my repositories. 🙏 Please, take me on your project! 
 
 <p align='center'>
